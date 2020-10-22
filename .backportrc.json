@@ -1,0 +1,5 @@
+// .backportrc.json
+{
+  "upstream": "a-mccarthy/backport-test",
+  "targetBranchChoices": [ "main", "release-1.0", "release-2.0"]
+}
